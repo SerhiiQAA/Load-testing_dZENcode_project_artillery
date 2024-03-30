@@ -1,2 +1,2 @@
 ## Performance testing
-* Example for main Page
+* Example for Main page
